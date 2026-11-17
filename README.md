@@ -8,7 +8,7 @@ Second-year Bachelor of Computing (Honours), Software Engineering Co-op student 
 
 | Project | What it is |
 | --- | --- |
-| [ProfPulse](https://github.com/Rafay-07/ProfPulse) | Professor ratings tied to a course. Flask, SQLite, 35 tests |
+| [ProfPulse](https://github.com/Rafay-07/ProfPulse) | Professor ratings tied to a course. Flask, SQLite, 36 tests. [Live demo](https://profpulse.onrender.com) |
 | [it-helpdesk-agent](https://github.com/Rafay-07/it-helpdesk-agent) | LLM help desk agent with tool calling, TF-IDF retrieval and guardrails |
 | [security-ops-toolkit](https://github.com/Rafay-07/security-ops-toolkit) | Log detection mapped to MITRE ATT&CK, plus a user access review |
 | [supply-chain-kpi-dashboard](https://github.com/Rafay-07/supply-chain-kpi-dashboard) | Supply chain KPIs in SQL, with an Excel report and an HTML dashboard |
